@@ -1,4 +1,4 @@
-Dante Engine (http://github.com/omcfadde/dante, http://dante.mobi)
+Purgatorio Engine (http://github.com/abergmeier/purgatorio)
 =========================
 
 This file contains the following sections:
@@ -8,6 +8,11 @@ LICENSE
 
 GENERAL NOTES
 =============
+
+Engine basics:
+--------------
+This engine is based on Dante which is itself based on the Doom 3 Source Release.
+Hail to them for a stable stand on their giant shoulders.
 
 Game data and patching:
 -----------------------
